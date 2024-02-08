@@ -1,0 +1,37 @@
+p {
+  font-family: Arial;
+  text-align: center;
+  margin: 0px 0px;
+}
+.new {
+  color: red;
+  font-size: 12;
+  margin: 10px 10px;
+}
+
+.mac {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.supercharged {
+  font-size: 40px;
+  font-weight: bold;
+  margin-top: 0px;
+}
+
+.from {
+  font-size: 18px;
+  margin-top: 9px;
+  margin-bottom: 9px;
+}
+.buy {
+  background-color: rgb(42, 133, 244);
+  border-radius: 13px;
+  color: white;
+  padding: 6px 10px;
+  font-weight: bold;
+  border: none;
+  margin-left: 735px;
+  
+}
